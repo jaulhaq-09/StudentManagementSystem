@@ -1,0 +1,8 @@
+build/
+out/
+*.class
+students.dat
+system.log
+.idea/
+.vscode/
+*.iml
